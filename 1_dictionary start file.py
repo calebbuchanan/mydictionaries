@@ -7,10 +7,9 @@ import random
 phonebook = {}
 phonebook = {"Chris": "555−1111", "Katie": "555−2222", "Joanne": "555−3333"}
 
-
 """
 print()
-print('*****  start section 1 - print dictionary ********')
+print("*****  start section 1 - print dictionary ********")
 print()
 
 
@@ -22,9 +21,8 @@ print(type(phonebook))
 
 
 print()
-print('*****  end section 1 ********')
+print("*****  end section 1 ********")
 print()
-
 
 
 
@@ -158,7 +156,7 @@ print("*****  end section 8 ********")
 print()
 
 
-"""
+
 print()
 print("*****  start section 9 - using random and converting to list ********")
 print()
@@ -178,3 +176,5 @@ print(phonebook[random.choice(list(phonebook))])
 print()
 print("*****  end section 9 ********")
 print()
+
+"""
